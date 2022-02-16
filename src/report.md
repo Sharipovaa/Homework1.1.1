@@ -23,3 +23,4 @@ _Фактический результат_
 * **MacOS Big Sur:** 11.6
 * **IDE:** intelij IDEA 2020.2 (Community Edition)
 * **Java:** OpenJDK 11
+
